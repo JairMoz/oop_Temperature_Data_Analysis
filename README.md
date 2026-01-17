@@ -3,9 +3,8 @@
 ![MICROSOFT](https://img.shields.io/badge/MICROSOFT-blue?style=for-the-badge&logo=microsoft)
 ![PYTHON DEVELOPMENT](https://img.shields.io/badge/PYTHON_DEVELOPMENT-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-This repository contains a technical implementation for processing thermal sensor data, focusing on **modularity** and object-oriented design principles as part of the Microsoft Python Development certification.
+This repository contains a technical implementation for processing thermal sensor data, focusing on **modularity** and object-oriented design principles as part of the **Microsoft Python Development certification**.
 
----
 
 ## 🎯 Project Goal
 
